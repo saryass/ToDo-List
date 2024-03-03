@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(17, 17, 17, 0.452);
+}
+
+#myH1 {
+font-size: 2.5em;
+margin-left: 20px;
+}
+
+#userInput {
+    width: 300px;
+    height: 100px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 10px 8px 10px rgb(82, 82, 112);
+    margin: 20px;
+}
+
+#addBTN {
+width: 100px;
+height: 50px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-weight: bold;
+}
+
+
+
+.hover{
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.733);
+}
